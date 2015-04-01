@@ -1,13 +1,11 @@
 {
   "name": "u-su",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "u-rand's Su shorcut",
   "main": "main.js",
   "dependencies": {
     "u-rand": ""
   },
-  
-  
   "repository": {
     "type": "git",
     "url": "git://github.com/manvalls/u-su.git"
