@@ -1,6 +1,6 @@
 {
   "name": "u-su",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "u-rand's Su shorcut",
   "main": "main.js",
   "dependencies": {
