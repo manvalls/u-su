@@ -4,7 +4,7 @@
   "description": "u-rand's Su shorcut",
   "main": "main.js",
   "dependencies": {
-    "u-rand": ""
+    "u-rand": "^1.1.0"
   },
   "repository": {
     "type": "git",
